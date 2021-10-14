@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-# I couldn't get the application to work on GKE, but I pushed my containers to DockerHub
+# I couldn't get the application to work on GKE, but I pushed my containers to Docker Hub
 
 # Docker Hub URLs:
 # https://hub.docker.com/repository/docker/zdejong/sentiment-analysis-logic
